@@ -53,3 +53,15 @@ body {
 .link-btn:hover {
   background: rgba(255, 255, 255, 0.15);
 }
+
+.mapa {
+  margin-top: 32px;
+  border-radius: 16px;
+  overflow: hidden;
+}
+
+.mapa iframe {
+  width: 100%;
+  height: 280px;
+  border: 0;
+}
